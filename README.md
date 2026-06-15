@@ -12,6 +12,8 @@ Analysis of financial performance for 5 startups (2020-2024) using Python and Po
 - Burn Rate comparison by startup
 - LTV/CAC Ratio analysis
 - Interactive Power BI Dashboard
+## 📸 Dashboard Preview
+![Dashboard](dashboard.png)
 
 ## 🛠 Tools Used
 `Python` `Pandas` `Matplotlib` `Seaborn` `Power BI`
